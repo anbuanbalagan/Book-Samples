@@ -43,6 +43,7 @@ namespace Inheritance
 				"My y coordinate is: " +getYCoordinate();
 		}
 	}
+
 	public class ThreeDimensionalPoint : TwoDimensionalPoint
 	{
 		private double z_coord;
