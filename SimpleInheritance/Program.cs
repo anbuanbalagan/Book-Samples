@@ -11,7 +11,7 @@ namespace SimpleInheritance
 
 		public void queryMood()
 		{
-			Console.WriteLine("I feel " + getMood() + " today!");
+			Console.WriteLine("I feel " + getMood() + " today!!");
 		}
 	}
 
